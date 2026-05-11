@@ -25,6 +25,6 @@ Proje, nesne yönelimli mimariye uygun olarak 5 ana paketten oluşmaktadır:
 - **Sürüm Kontrolü:** Git & GitHub
 
 ## 📝 Akademik Bilgiler
-- **Geliştiren:** [Hamza ÖZÜTÜRK] - [25360859334]
+- **Geliştiren:** Hamza ÖZÜTÜRK - 25360859334
 - **Ders:** Nesne Yönelimli Programlama
 - **Teslim Tarihi:** 11 Mayıs 2026
