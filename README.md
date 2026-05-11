@@ -26,5 +26,6 @@ Proje, nesne yönelimli mimariye uygun olarak 5 ana paketten oluşmaktadır:
 
 ## 📝 Akademik Bilgiler
 - **Geliştiren:** Hamza ÖZÜTÜRK - 25360859334
+- https://youtu.be/mk8OiJOgquU
 - **Ders:** Nesne Yönelimli Programlama
 - **Teslim Tarihi:** 11 Mayıs 2026
