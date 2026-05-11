@@ -21,7 +21,7 @@ Proje, nesne yönelimli mimariye uygun olarak 5 ana paketten oluşmaktadır:
 
 ## 🛠️ Kullanılan Teknolojiler
 - **Dil:** Java
-- **IDE:** Eclipse / IntelliJ IDEA
+- **IDE:** Eclipse 
 - **Sürüm Kontrolü:** Git & GitHub
 
 ## 📝 Akademik Bilgiler
